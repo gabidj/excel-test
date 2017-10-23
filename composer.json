@@ -1,0 +1,19 @@
+{
+    "name": "gabi/excel",
+    "authors": [
+        {
+            "name": "Gabi DJ",
+            "email": "gabi@apidemia.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "phpoffice/phpspreadsheet": "dev-develop"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/PHPOffice/PhpSpreadsheet"
+        }
+    ]
+}
